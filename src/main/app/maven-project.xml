@@ -20,6 +20,8 @@ http://www.mulesoft.org/schema/mule/jms http://www.mulesoft.org/schema/mule/jms/
 
    
    <spring:beans>
+      
+      
       <spring:bean id="Bean" name="Bean" class="com.mulesoft.training.Database" />
    </spring:beans>
 
